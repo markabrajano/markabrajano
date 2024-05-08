@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
 # Hello There 👋
-😎 I am Mark! Currently working as a Senior Research & Talent Intelligence.<br>🚀 Looking to collaborate with my fellow research and talent intelligence enthusiasts.<br>🍀 Presently learning SQL and PowerBI to enhance my data analytics skills<br>💪 I love lifting and training, which I do six days a week.<br>⚡ Spare times spent reading, eating, gaming, and sleeping.
+</> I am Mark! Currently working as a Senior Research & Talent Intelligence. </> <br> </> Looking to collaborate with my fellow research and talent intelligence enthusiasts. </> <br> </> Presently learning SQL and PowerBI to enhance my data analytics skills. </> <br> </> I love lifting and training, which I do six days a week. </> <br> </> Spare times spent reading, eating, gaming, and sleeping. </> <br> 🚀💡🍀💪⚡
 
 
 ## 🌐 Connect With Me!
